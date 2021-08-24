@@ -15,7 +15,7 @@
 # e.g. (note: 123.56.23.24 is an invaild server ip address)
 # ./bin/client -f Linux_System_Programing_By_Hit.pdf -a 123.56.23.24
 
-# local_test:
+# local test:
 ./bin/client -f Linux_System_Programing_By_Hit.pdf -a 127.0.0.1
 ```
 * `-f`为必选项，用于指定待传输文件，`-a`也为必选项，用于指定目标服务器IP地址。
